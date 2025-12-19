@@ -130,8 +130,6 @@
     <ClCompile Include="Station.cpp" />
     <ClCompile Include="Station.h" />
     <ClCompile Include="Train.cpp" />
-    <ClCompile Include="TransportUnit.cpp" />
-    <ClCompile Include="TransportUnit.h" />
     <ClCompile Include="Validator.cpp" />
     <ClCompile Include="Validator.h" />
   </ItemGroup>

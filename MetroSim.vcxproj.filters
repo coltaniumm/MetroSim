@@ -24,12 +24,6 @@
     <ClCompile Include="Line.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TransportUnit.h">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TransportUnit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Train.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
